@@ -6,7 +6,11 @@
 
 
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)  [![GitHub issues](https://img.shields.io/github/issues/codtechzofficial/ost-chris)](https://github.com/codtechzofficial/ost-chris/issues)  [![GitHub forks](https://img.shields.io/github/forks/codtechzofficial/ost-chris)](https://github.com/codtechzofficial/ost-chris/network) [![GitHub stars](https://img.shields.io/github/stars/codtechzofficial/ost-chris?style=social)](https://github.com/codtechzofficial/ost-chris/stargazers)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
+[![GitHub license](https://img.shields.io/github/license/codtechzofficial/ost-chris)](https://github.com/codtechzofficial/ost-chris/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/codtechzofficial/ost-chris)](https://github.com/codtechzofficial/ost-chris/issues) 
+[![GitHub forks](https://img.shields.io/github/forks/codtechzofficial/ost-chris)](https://github.com/codtechzofficial/ost-chris/network)
+[![GitHub stars](https://img.shields.io/github/stars/codtechzofficial/ost-chris?style=social)](https://github.com/codtechzofficial/ost-chris/stargazers)
 
 ## Quick start
 - `Backup your osTicket folder`
