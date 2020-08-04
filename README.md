@@ -1,9 +1,7 @@
 # Chris Framework - osTicket theme
-========
-<a href="https://codtechz.store"><img height="80px" width="200px" src="https://codtechz.store/assets/images/index-data/logo-analysis.png"
-align="left" hspace="10" vspace="6"></a>
 
-**osTicket** Lightweight and responsive open source theme for osTicket. Manage your organize your support system with this simple and intuitive design osTicket theme.
+
+**Chris Framework** is a lightweight and responsive open source theme for osTicket. Manage your organize your support system with this simple and intuitive design osTicket theme.
 
 
 
